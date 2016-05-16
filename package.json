@@ -1,0 +1,22 @@
+{
+  "name": "drink-up",
+  "version": "1.0.0",
+  "description": "playing with objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evans-Munatsa/drink-up.git"
+  },
+  "author": "Evans Munatsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evans-Munatsa/drink-up/issues"
+  },
+  "homepage": "https://github.com/Evans-Munatsa/drink-up#readme",
+  "dependencies": {
+    "travis": "^0.1.1"
+  }
+}
